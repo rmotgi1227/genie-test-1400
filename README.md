@@ -1,6 +1,6 @@
-# a bill splitter that splits by item (live GitHub spike)
+# a bill splitter
 
-I wish there was an app that splits a restaurant bill by item
+x
 
 Wished for by u/genie_spike and:
 - 
