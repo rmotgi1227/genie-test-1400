@@ -1,10 +1,10 @@
-# a bill splitter
+# Cline wrote this
 
-x
+Usage instructions here.
 
-Wished for by u/genie_spike and:
-- 
+---
 
 Live: https://genie-test-1400.vercel.app
 
 Built by an AI agent (Genie). MIT licensed.
+Wished for by u/genie_spike: https://www.reddit.com/r/test/comments/1abcde/x/
